@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shoislom!
 - 👀 I’m interested in Businness, Startup Building, reading Business and scientific books.
-- 🌱 I’m currently learning Frontend Development.
+- 🌱 I’m currently finishin Frontend Development Bootcamp.
 - 💞️ I’m looking to collaborate on Learning new things.
 - 📫 How to reach me my Instagram: https://www.instagram.com/shoislom_1508/
 
